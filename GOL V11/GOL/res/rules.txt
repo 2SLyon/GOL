@@ -1,0 +1,25 @@
+Rules:
+
+1. BIRTH: Each dead cell adjacent to exactly three live neighbours will become live in the next generation.
+2. ISOLATION: Each live cell with one or fewer live neighbours will die in the next generation.
+3. OVERCROWDING: Each live cell with four or more live neighbours will die in the next generation.
+4. SURVIVAL: Each live cell with either two or three live neighbours will remain alive for the next generation.
+5. Another important fact about the rules for the game of life is that all rules apply to all cells at the same time.
+
+ 
+ Controls:
+ 
+ R          : Start
+ ENTER      : Step/Stop
+ W/S        : Inc/Dec speed
+ C          : Re-set grid
+ F          : Fill grid
+ P          : Cycle Colours
+ SPACE      : Fill square
+ ARROW KEYS : Move one square
+ M          : Return to menu
+
+
+
+
+:PRESS M TO RETURN TO THE MENU:
